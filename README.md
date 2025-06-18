@@ -28,5 +28,6 @@ A fully responsive, visually appealing coffee shop website built with **HTML**, 
 - **CSS3** – Styling and responsive layout  
 - **JavaScript (ES6)** – Basic interactivity and smooth scrolling
 
+
 ## 🗂️ Website Demo Image
-https://github.com/waheedalimajeedano/Coffee_Website./blob/main/Images/Coffee%20Wesbite%20Using%20HTML%20-%20CSS%20and%20Java%20Script.Img.png?raw=true
+![image alt](https://github.com/waheedalimajeedano/Coffee_Website./blob/d7775a097392adc4cd6e2d92a4bf38274c916934/Images/Coffee%20Wesbite%20Using%20HTML%20-%20CSS%20and%20Java%20Script.Img.png)
