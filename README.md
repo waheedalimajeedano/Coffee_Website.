@@ -19,8 +19,7 @@ A fully responsive, visually appealing coffee shop website built with **HTML**, 
 - **Menu** – Coffee and food offerings  
 - **Gallery** – Images showcasing ambiance and products  
 - **Testimonials** – Customer reviews and feedback  
-- **Contact Us** – Contact form layout and shop information  
-
+- **Contact Us** – Contact form layout and shop information
 
 
 ## 🔧 Tech Stack
@@ -29,3 +28,5 @@ A fully responsive, visually appealing coffee shop website built with **HTML**, 
 - **CSS3** – Styling and responsive layout  
 - **JavaScript (ES6)** – Basic interactivity and smooth scrolling
 
+## 🗂️ Website Demo Image
+https://github.com/waheedalimajeedano/Coffee_Website./blob/main/Images/Coffee%20Wesbite%20Using%20HTML%20-%20CSS%20and%20Java%20Script.Img.png?raw=true
